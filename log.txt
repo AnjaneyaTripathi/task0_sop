@@ -1,8 +1,1 @@
-cd /git clone <url> :To clone the repo into  the local system
-git branch <branch-name>: To create a new branch
-git checkout <branchname>: To switch to certain branch
-git add <filename> : To add the changes made in current directory
-git commit-m "info about change": To save changes made to the local repo
-git pull : To pull changes made
-git status: To display current status of dir
-git push : To push repo content to remote repo
+ EGG
